@@ -74,6 +74,9 @@ uplink-security-emprpg-desc = A rocket propelled grenade launcher. Comes with 1 
 uplink-security-empgrenade-name = EMP Grenade
 uplink-security-empgrenade-desc = A handheld grenade that emits a high energy pulse that disrupts electronics and power systems in a moderately large radius.
 
+uplink-security-MRE-name = M.R.E
+uplink-security-MRE-desc = Uma ração militar comum.
+
 uplink-security-holo-name = Holobarrier
 uplink-security-holo-desc = A battery powered holoprojecter that places temporary barriers to bar movement.
 

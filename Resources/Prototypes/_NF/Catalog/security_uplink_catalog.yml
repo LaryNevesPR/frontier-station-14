@@ -393,6 +393,22 @@
 
 #region utililty
 - type: listing
+  id: UplinkSecurityMRE
+  name:  uplink-security-MRE-name
+  description: uplink-security-MRE-desc
+  productEntity: BoxMRE
+  icon: { sprite: Objects/Storage/boxicons.rsi, state: box }
+  cost:
+    FrontierUplinkCoin: 1
+  categories:
+  - UplinkSecurityUtility
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - SecurityUplink
+
+- type: listing
   id: UplinkSecurityHolo
   name:  uplink-security-holo-name
   description: uplink-security-holo-desc
